@@ -1,0 +1,52 @@
+spring:
+  cloud:
+    config:
+      server:
+        encrypt:
+          enabled: false
+        git:
+          uri: git@github.com:ukraine08107/settings.git
+          clone-on-start: true
+          private-key:
+            -----BEGIN RSA PRIVATE KEY-----
+            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
+            -----END RSA PRIVATE KEY-----
+
+server:
+  port: 8888
